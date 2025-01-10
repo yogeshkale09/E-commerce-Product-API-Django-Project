@@ -1,6 +1,8 @@
 # E-commerce-Product-API-Django-Project
 This project is a simple e-commerce backend API built using Django and Django REST Framework. It allows you to manage products, including adding, retrieving, updating, and deleting them. The API also includes features like filtering, sorting, pagination, and token-based authentication.
 
+Django REST Framework is a wrapper over the default Django Framework, basically used to create APIs of various kinds. There are three stages before creating an API through the REST framework, Converting a Model’s data to JSON/XML format (Serialization), Rendering this data to the view, and Creating a URL for mapping to the views.
+
 ---
 
 ## Features
