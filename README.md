@@ -121,4 +121,7 @@ Unit tests are included for critical functionality. Run them using:
 - Enhance the filtering and searching capabilities.
 
 - Add support for product images.
-
+![Screenshot 2025-01-10 123649](https://github.com/user-attachments/assets/93892813-bb08-4fd3-abc7-f18776ff84e2)
+![Screenshot 2025-01-10 123720](https://github.com/user-attachments/assets/ea10fbb8-0451-4ccf-80ea-4d3d6ced4e52)
+![Screenshot 2025-01-10 123850](https://github.com/user-attachments/assets/26174e73-6792-49e3-9077-cf7cf87035fd)
+![Screenshot 2025-01-10 124059](https://github.com/user-attachments/assets/d8c93bb7-7efc-447f-9466-a33d0ae7944e)
