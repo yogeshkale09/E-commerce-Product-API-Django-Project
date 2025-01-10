@@ -41,11 +41,11 @@ This project is a simple e-commerce backend API built using Django and Django RE
 
 - *POST /products/:* Add a new product.
 
-- - *Input:* name, description, price, stock, category.
+  - *Input:* name, description, price, stock, category.
 
 - *GET /products/:* Retrieve all products with optional filters and sorting.
 
-- - *Filters:* category, price (ascending/descending).
+  - *Filters:* category, price (ascending/descending).
 
 - *PUT /products/{id}/:* Update product details (except id).
 
